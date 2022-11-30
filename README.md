@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gracelessMaria
-- 👀 I’m interested in ttrpg, powerlifting, HEMA and tech
+- 👀 I’m interested in ttrpgs, powerlifting, HEMA and tech
 - 🌱 I’m currently learning cloud computing and programming
 
 <!---
