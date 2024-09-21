@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gracelessMaria
-- 👀 I’m interested in ttrpgs, powerlifting, HEMA and tech
-- 🌱 I’m currently learning cloud computing and programming
+- 👀 I’m interested in tech, ttrpgs and powerlifting
+- 🌱 Currently pursuing a Bachelors in Cyber Security
 
 <!---
 gracelessMaria/gracelessMaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
